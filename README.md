@@ -35,7 +35,7 @@ Follow these instructions to set up the Django project locally.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/MohamedHassanExp/inventory-management-system.git](https://github.com/MohamedHassanExp/inventory-management-system.git)
+   git clone https://github.com/MohamedHassanExp/inventory-management-system.git
 2. Navigate to the project directory
    ```bash
    cd inventory-management-system-main
